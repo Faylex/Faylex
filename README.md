@@ -9,7 +9,7 @@
 
 <br />
 
-## Follow me :airplane: :airplane:
+## Follow me :iphone: :computer_mouse:
 [![Matheus's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbquadros/)
 [![Matheus's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusbq.art/)
 [![Matheus's Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/baptistadequadros)
