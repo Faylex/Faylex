@@ -1,4 +1,4 @@
-### Hello there! I'm Matheus (Faylex).
+### Hello there! I'm Matheus!
 
 ## I'm an aspiring Front End developer! :computer:	
 
